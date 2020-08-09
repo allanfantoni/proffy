@@ -13,6 +13,12 @@ const styles = StyleSheet.create({
     marginVertical: 15 // added for space problems at the top of the smartphone
   },
 
+  header: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between'
+  },
+
   title: {
     fontFamily: 'Archivo_700Bold',
     color: '#FFF',
