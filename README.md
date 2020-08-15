@@ -10,7 +10,7 @@
 
 # Proffy
 
-Proffy is an app which allows students to contact teachers of their interest based on the subject, day of week and time. It also allows teachers to sign up to the app.
+Proffy is an app which allows students to contact teachers of their interest based on the subject, day of the week and time. It also allows teachers to sign up to the app.
 
 <div align="center">
 
@@ -44,6 +44,7 @@ Proffy is an app which allows students to contact teachers of their interest bas
 
 ## Features
 
+- [x] search for teachers based on subject, day of the week and time
 - [x] contact a teacher via whatsapp
 - [ ] user authentication
 - [ ] password recovery

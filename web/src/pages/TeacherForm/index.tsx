@@ -185,7 +185,7 @@ function TeacherForm() {
           </p>
             <button type="submit">
               Salvar cadastro
-          </button>
+            </button>
           </footer>
         </form>
       </main>
